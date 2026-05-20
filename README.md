@@ -74,7 +74,7 @@ Data-Analytics-Portfolio/
 ## 📸 Dashboard Preview
 
 <p align="center">
-  <img src="screenshots/dashboard.png" width="800"/>
+  <img src="screenshots/Dashboard.png" width="800"/>
 </p>
 
 ---
